@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently studying in 3rd year at NIT Silchar in CSE Dept<br>
+Final Year Student at NIT Silchar, CSE Dept<br>
 
 
 # 💻 Tech Stack:
